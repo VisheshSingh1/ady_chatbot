@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 def main():
     st.title("Farming Chatbot")
